@@ -25,9 +25,10 @@
         <li><a href='/' class='first'>News</a></li>
         <li><a href='/about/'>About</a></li>
         <li><a href='/specifics/'>Specifics</a></li>
-        <li><a href='/sessions/' class=''>Sessions</a></li>
-        <li><a href='/attendees/' class=''>Attendees</a></li>
-        <li><a href='/sponsorships/' class='last'>Sponsors</a></li>
+        <li><a href='/wiki/2010/sessions/' class=''>Sessions</a></li>
+        <li><a href='/wiki/2010/attendees/' class=''>Attendees</a></li>
+        <li><a href='/sponsorships/'>Sponsors</a></li>
+	<li><a href='/wiki/2010' class='last'>Wiki</a></li>
       </ul>
     </div>
 
