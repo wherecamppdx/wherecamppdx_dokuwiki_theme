@@ -25,10 +25,10 @@
         <li><a href='/' class='first'>News</a></li>
         <li><a href='/about/'>About</a></li>
         <li><a href='/specifics/'>Specifics</a></li>
-        <li><a href='/wiki/2010/sessions/' class=''>Sessions</a></li>
-        <li><a href='/wiki/2010/attendees/' class=''>Attendees</a></li>
+        <li><a href='/wiki/2011/sessions/' class=''>Sessions</a></li>
         <li><a href='/sponsorships/'>Sponsors</a></li>
-	<li><a href='/wiki/2010' class='last'>Wiki</a></li>
+	<li><a href='/wiki/2011' class='last'>Wiki</a></li>
+	<li><a href='http://wherecamppdx11.eventbrite.com/' class='register'>Register now!</a></li>
       </ul>
     </div>
 
