@@ -25,10 +25,10 @@
         <li><a href='/' class='first'>News</a></li>
         <li><a href='/about/'>About</a></li>
         <li><a href='/specifics/'>Specifics</a></li>
-        <li><a href='/wiki/2011/sessions/' class=''>Sessions</a></li>
+        <li><a href='/wiki/2012/sessions/' class=''>Sessions</a></li>
         <li><a href='/sponsorships/'>Sponsors</a></li>
-	<li><a href='/wiki/2011' class='last'>Wiki</a></li>
-	<li><a href='http://wherecamppdx11.eventbrite.com/' class='register'>Register now!</a></li>
+	<li><a href='/wiki/2012' class='last'>Wiki</a></li>
+	<li><a href='http://wherecamppdx5.eventbrite.com/' class='register'>Register now!</a></li>
       </ul>
     </div>
 
@@ -57,7 +57,7 @@
   <?php flush()?>
 
 
-<div class='sidebar'>
+<div class='sidebar wiki'>
    <ul class="xoxo">
       <li id="topbar">
          <h3><?php echo $conf['title']; ?></h3>
